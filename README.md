@@ -31,7 +31,10 @@ PNG Metadata — IV storage
 # 📦 Installation
 
 Install the required dependencies:
+# if requirements.txt
+pip install -r requirements.txt
 
+# if not use 
 pip install pillow pycryptodome
 
 # Run the application:
